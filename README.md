@@ -13,7 +13,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 ## Arrays and Hashing
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
-- [2 sum and 2sum 2 with hashing](https://leetcode.com/problems/two-sum/)
+- [2 sum and 2sum 2 with hashing and 3sum](https://leetcode.com/problems/two-sum/)
 
 
 
@@ -24,7 +24,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Multiply strings](https://leetcode.com/problems/multiply-strings/)
 
 ## Arrays and Two pointers
-- [Sort colors - try with 2 pointers](https://leetcode.com/problems/sort-colors/)
+- [Sort colors](https://leetcode.com/problems/sort-colors/)
 - [reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
-- [4sum - try with 2 points](https://leetcode.com/problems/4sum/)
+- [4sum](https://leetcode.com/problems/4sum/)
 - [move zeros](https://leetcode.com/problems/move-zeroes/)
