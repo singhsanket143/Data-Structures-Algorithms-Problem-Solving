@@ -16,6 +16,9 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [2 sum and 2sum 2 with hashing](https://leetcode.com/problems/two-sum/)
 
 
+## sorting [link](https://www.bigocheatsheet.com/)
+- [selection sort](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+
 
 
 ### Homework
@@ -29,5 +32,6 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [4sum - try with 2 points](https://leetcode.com/problems/4sum/)
 - [move zeros](https://leetcode.com/problems/move-zeroes/)
 
-## sorting [link](https://www.bigocheatsheet.com/)
-- [selection sort](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+## Sorting
+- Implement bubble sort using recursion without any single loop.
+- Implement selection sort using recursion.
