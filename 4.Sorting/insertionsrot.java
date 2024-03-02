@@ -19,7 +19,7 @@ public class insertionsrot {
         }
     }
     public static void main(String[] args) {
-        int[] arr = {5,4,3,2,1};
+        int[] arr = {4,5,-1,2,-8,3};
         insertionsort(arr);
         for (int i : arr) {
             System.out.println(i);
