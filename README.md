@@ -28,3 +28,6 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 - [4sum - try with 2 points](https://leetcode.com/problems/4sum/)
 - [move zeros](https://leetcode.com/problems/move-zeroes/)
+
+## sorting [link](https://www.bigocheatsheet.com/)
+- [selection sort](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
