@@ -35,3 +35,4 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 ## Sorting
 - Implement bubble sort using recursion without any single loop.
 - Implement selection sort using recursion.
+- [Merge two sorted arrays](https://leetcode.com/problems/merge-sorted-array/)
