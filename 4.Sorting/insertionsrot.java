@@ -1,5 +1,9 @@
 public class insertionsrot {
     public static void insertionsort(int[] arr) {
+        /**
+         * Space: O(1)
+         * Time: O(n^2)
+         */
         for(int i = 1; i < arr.length; i++) {
             int element = arr[i];
             int j;
