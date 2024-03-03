@@ -17,8 +17,9 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 
 
 ## sorting [link](https://www.bigocheatsheet.com/)
-- [selection sort](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
-
+- [selection sort, bubble sort, insertion sort]
+(https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+- [Merge two sorted arrays](https://leetcode.com/problems/merge-sorted-array/)
 
 
 ### Homework
@@ -35,4 +36,4 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 ## Sorting
 - Implement bubble sort using recursion without any single loop.
 - Implement selection sort using recursion.
-- [Merge two sorted arrays](https://leetcode.com/problems/merge-sorted-array/)
+- [Merge two sorted arrays - Solve it without using extra result array](https://leetcode.com/problems/merge-sorted-array/)
