@@ -17,9 +17,10 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 
 
 ## sorting [link](https://www.bigocheatsheet.com/)
-- [selection sort, bubble sort, insertion sort]
+- [selection sort, bubble sort, insertion sort, merge sort, quick sort]
 (https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
 - [Merge two sorted arrays](https://leetcode.com/problems/merge-sorted-array/)
+- [min cost to remove all elements such that cost to remove one element is sum of array]()
 
 
 ### Homework
@@ -41,5 +42,6 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - New [Inversion count](https://www.spoj.com/problems/INVCNT/)
 - New [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 - New [Make array 0 by subtracting equal amount](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
+- Implement partition algorithm and then modify it to make quick sort (randomised)
 
 
