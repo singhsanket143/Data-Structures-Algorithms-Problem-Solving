@@ -33,15 +33,17 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 - [4sum - try with 2 points](https://leetcode.com/problems/4sum/)
 - [move zeros](https://leetcode.com/problems/move-zeroes/)
-- New [Take K Character](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/)
+- [Take K Character](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/)
 
 ## Sorting
 - Implement bubble sort using recursion without any single loop.
 - Implement selection sort using recursion.
-- New [Merge two sorted arrays - Solve it without using extra result array](https://leetcode.com/problems/merge-sorted-array/)
-- New [Inversion count](https://www.spoj.com/problems/INVCNT/) (Hint: Think with Merge sort)
-- New [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) (Hint: Think with Merge sort)
-- New [Make array 0 by subtracting equal amount](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
-- Implement partition algorithm and then modify it to make quick sort (randomised)
+- [Merge two sorted arrays - Solve it without using extra result array](https://leetcode.com/problems/merge-sorted-array/)
+- [Inversion count](https://www.spoj.com/problems/INVCNT/) (Hint: Think with Merge sort)
+- [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) (Hint: Think with Merge sort)
+- [Make array 0 by subtracting equal amount](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
+- New Implement partition algorithm and then modify it to make quick sort (randomised)
 
 
+## Searching
+- New [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
