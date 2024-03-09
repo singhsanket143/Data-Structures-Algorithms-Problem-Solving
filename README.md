@@ -39,8 +39,8 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - Implement bubble sort using recursion without any single loop.
 - Implement selection sort using recursion.
 - New [Merge two sorted arrays - Solve it without using extra result array](https://leetcode.com/problems/merge-sorted-array/)
-- New [Inversion count](https://www.spoj.com/problems/INVCNT/)
-- New [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
+- New [Inversion count](https://www.spoj.com/problems/INVCNT/) (Hint: Think with Merge sort)
+- New [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) (Hint: Think with Merge sort)
 - New [Make array 0 by subtracting equal amount](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
 - Implement partition algorithm and then modify it to make quick sort (randomised)
 
