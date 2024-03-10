@@ -31,6 +31,10 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Search 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [Search insert position](https://leetcode.com/problems/search-insert-position/description/)
 - [Guess Number Higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+- [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
+
+
 
 ### Homework
 
@@ -53,4 +57,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Make array 0 by subtracting equal amount](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
 - New Implement partition algorithm and then modify it to make quick sort (randomised)
 
+
+## Searching
+- [Sqrt](https://leetcode.com/problems/sqrtx/description/)
 
