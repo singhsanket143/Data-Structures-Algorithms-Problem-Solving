@@ -23,6 +23,13 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [min cost to remove all elements such that cost to remove one element is sum of array]()
 
 
+# Searching 
+ - [Lower Bound]()
+ - [Upper Bount]()
+ - [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+
+
 ### Homework
 
 ## Adhoc
@@ -45,5 +52,3 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - New Implement partition algorithm and then modify it to make quick sort (randomised)
 
 
-## Searching
-- New [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
