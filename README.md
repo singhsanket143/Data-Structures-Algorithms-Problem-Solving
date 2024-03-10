@@ -55,9 +55,13 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Inversion count](https://www.spoj.com/problems/INVCNT/) (Hint: Think with Merge sort)
 - [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) (Hint: Think with Merge sort)
 - [Make array 0 by subtracting equal amount](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
-- New Implement partition algorithm and then modify it to make quick sort (randomised)
-
+-  Implement partition algorithm and then modify it to make quick sort (randomised)
+- New [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+- New [Intersection of two arrays 2](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- New [Number of pairs satisfing inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/)
 
 ## Searching
-- [Sqrt](https://leetcode.com/problems/sqrtx/description/)
-
+- New [Sqrt](https://leetcode.com/problems/sqrtx/description/)
+- New [Single element in sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+- New [First missing positive - searching problem](https://leetcode.com/problems/first-missing-positive/description/)
+- New [Count element occurence](https://www.interviewbit.com/problems/count-element-occurence/)
