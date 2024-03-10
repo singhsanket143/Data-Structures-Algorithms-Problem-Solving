@@ -27,8 +27,9 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
  - [Lower Bound]()
  - [Upper Bount]()
  - [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-
-
+ - [Smaller or equal elements](https://www.interviewbit.com/problems/smaller-or-equal-elements/)
+- (Search 2d Matrix)[https://leetcode.com/problems/search-a-2d-matrix/description/]
+- (Search insert position)(https://leetcode.com/problems/search-insert-position/description/)
 
 ### Homework
 
