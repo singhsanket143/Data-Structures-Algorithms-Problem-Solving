@@ -35,7 +35,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 - [Peak element](https://leetcode.com/problems/find-peak-element/)
 - [Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/)
-
+- [Successfull pair of spells and potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 
 ### Homework
 
@@ -70,3 +70,5 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - New [Find min in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - New [Peak in mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - New [Search in sorted rotated array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- New - [Code - Successfull pair of spells and potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+- New [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
