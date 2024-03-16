@@ -34,7 +34,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 - [Peak element](https://leetcode.com/problems/find-peak-element/)
-
+- [Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 
 ### Homework
@@ -69,3 +69,4 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - New [Search in rotated soted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - New [Find min in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - New [Peak in mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- New [Search in sorted rotated array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
