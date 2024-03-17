@@ -38,6 +38,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Successfull pair of spells and potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [Minimize the maximum difference of the pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 
 ### Homework
 
@@ -74,3 +75,26 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Search in sorted rotated array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [Code - Successfull pair of spells and potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 - New - [Code JS Solution for minimize maximum pair](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)
+- New [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- New [Book Allocation](https://www.interviewbit.com/problems/allocate-books/)
+- New [Painter Partition](https://www.interviewbit.com/problems/painters-partition-problem/)
+- New [Red Zone](https://www.interviewbit.com/problems/red-zone/)
+
+
+
+------------------------------------------------------------------------
+
+# Below section is not required for interview preparation, it is only for CP enthusiasts 
+
+# CP Practice problems (Non Mandatory for interview preparation):
+
+
+## Searching
+
+- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
+- [Parata](https://www.spoj.com/problems/PRATA/)
+- [ABCDEF](https://www.spoj.com/problems/ABCDEF/)
+- [Not a triangle](https://www.spoj.com/problems/NOTATRI)
+- [Kefa and Company](https://codeforces.com/contest/580/problem/B)
+- [Favourite question - Subsums](https://www.spoj.com/problems/SUBSUMS/)
+- [Firecrackers](https://codeforces.com/problemset/problem/1468/D)
