@@ -24,8 +24,8 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 
 
 # Searching 
- - [Lower Bound]()
- - [Upper Bount]()
+ - [Lower Bound](https://www.codingninjas.com/studio/problems/lower-bound_8165382)
+ - [Upper Bound](https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383)
  - [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
  - [Smaller or equal elements](https://www.interviewbit.com/problems/smaller-or-equal-elements/)
 - [Search 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
@@ -41,7 +41,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 
 ## Dynamic Programming
-- [Fibonacci TD](https://leetcode.com/problems/fibonacci-number/)
+- [Fibonacci TD](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_1115780)
 - [Fibonacci BU](https://leetcode.com/problems/fibonacci-number/)
 - [Friends Pairing TD](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
 
