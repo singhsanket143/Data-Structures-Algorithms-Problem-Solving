@@ -40,6 +40,13 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Minimize the maximum difference of the pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)
 - [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 
+## Dynamic Programming
+- [Fibonacci TD](https://leetcode.com/problems/fibonacci-number/)
+- [Fibonacci BU](https://leetcode.com/problems/fibonacci-number/)
+- [Friends Pairing TD](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
+
+
+
 ### Homework
 
 ## Adhoc
@@ -82,9 +89,8 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 
 
 ## Dynamic Programming
-- [Fibonacci TD](https://leetcode.com/problems/fibonacci-number/)
-- [Fibonacci BU](https://leetcode.com/problems/fibonacci-number/)
-- [Friends Pairing TD](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
+- [Try BU solution for Friends Pairing](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
+
 
 
 ------------------------------------------------------------------------
@@ -105,5 +111,3 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Firecrackers](https://codeforces.com/problemset/problem/1468/D)
 
 
-## Dynamic Programming
-- [Try BU solution for Friends Pairing](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
