@@ -81,6 +81,11 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - New [Red Zone](https://www.interviewbit.com/problems/red-zone/)
 
 
+## Dynamic Programming
+- [Fibonacci TD](https://leetcode.com/problems/fibonacci-number/)
+- [Fibonacci BU](https://leetcode.com/problems/fibonacci-number/)
+- [Friends Pairing TD](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
+
 
 ------------------------------------------------------------------------
 
@@ -98,3 +103,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Kefa and Company](https://codeforces.com/contest/580/problem/B)
 - [Favourite question - Subsums](https://www.spoj.com/problems/SUBSUMS/)
 - [Firecrackers](https://codeforces.com/problemset/problem/1468/D)
+
+
+## Dynamic Programming
+- [Try BU solution for Friends Pairing](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
