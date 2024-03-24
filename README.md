@@ -44,6 +44,8 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Fibonacci TD](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_1115780)
 - [Fibonacci BU](https://leetcode.com/problems/fibonacci-number/)
 - [Friends Pairing TD](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
+- [Coinchange TD](https://leetcode.com/problems/coin-change/)
+- [Coinchange BU](https://leetcode.com/problems/coin-change/)
 
 
 
