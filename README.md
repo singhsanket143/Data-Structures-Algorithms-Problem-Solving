@@ -46,8 +46,9 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Friends Pairing TD](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
 - [Coinchange TD](https://leetcode.com/problems/coin-change/)
 - [Coinchange BU](https://leetcode.com/problems/coin-change/)
-
-
+- [Perfect Square TD](https://leetcode.com/problems/perfect-squares/)
+- [Minimum Cost for tickets TD](https://leetcode.com/problems/minimum-cost-for-tickets/)
+- [Minimum Cost for tickets BU](https://leetcode.com/problems/minimum-cost-for-tickets/)
 
 ### Homework
 
@@ -92,8 +93,12 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 
 ## Dynamic Programming
 - [Try BU solution for Friends Pairing](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
-
-
+- [Try Perfect Square BU](https://leetcode.com/problems/perfect-squares/)
+- [Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
+- [Min Cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [House Robber](https://leetcode.com/problems/house-robber/)
+- [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
+- [Nth tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/)
 
 ------------------------------------------------------------------------
 
