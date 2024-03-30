@@ -98,6 +98,9 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - New [Painter Partition](https://www.interviewbit.com/problems/painters-partition-problem/)
 - New [Red Zone](https://www.interviewbit.com/problems/red-zone/)
 
+## Recursion
+- New [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+
 
 ## Dynamic Programming
 - [Try BU solution for Friends Pairing](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
