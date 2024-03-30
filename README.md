@@ -49,6 +49,10 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Perfect Square TD](https://leetcode.com/problems/perfect-squares/)
 - [Minimum Cost for tickets TD](https://leetcode.com/problems/minimum-cost-for-tickets/)
 - [Minimum Cost for tickets BU](https://leetcode.com/problems/minimum-cost-for-tickets/)
+- [Triangle BU](https://leetcode.com/problems/triangle/)
+- [Triangle TD](https://leetcode.com/problems/triangle/)
+- [Combination sum 4 BU](https://leetcode.com/problems/combination-sum-iv/)
+- [Combination sum 4 TD](https://leetcode.com/problems/combination-sum-iv/)
 
 ### Homework
 
