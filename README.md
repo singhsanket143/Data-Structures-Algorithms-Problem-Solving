@@ -53,6 +53,10 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Triangle TD](https://leetcode.com/problems/triangle/)
 - [Combination sum 4 BU](https://leetcode.com/problems/combination-sum-iv/)
 - [Combination sum 4 TD](https://leetcode.com/problems/combination-sum-iv/)
+- [LIS TD](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [LIS BU](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+
 
 ### Homework
 
@@ -103,6 +107,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [House Robber](https://leetcode.com/problems/house-robber/)
 - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
 - [Nth tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/)
+- New [Count LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 
 ------------------------------------------------------------------------
 

@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.List;
+
 class Triangle {
     
     public static List<List<Integer> > mat;
