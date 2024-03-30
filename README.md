@@ -108,7 +108,8 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
 - [Nth tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/)
 - New [Count LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
-
+- New [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+- New [Arithmetic Slices 2](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
 ------------------------------------------------------------------------
 
 # Below section is not required for interview preparation, it is only for CP enthusiasts 
