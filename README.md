@@ -1,6 +1,9 @@
 ### DSA Sheet
 
 Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
+Revise JAVADS - [Link](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+Revise Java HashMap - [Link](https://www.youtube.com/watch?v=H62Jfv1DJlU)
+Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 
 ## Arrays and Two Pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -55,7 +58,9 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Combination sum 4 TD](https://leetcode.com/problems/combination-sum-iv/)
 - [LIS TD](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [LIS BU](https://leetcode.com/problems/longest-increasing-subsequence/)
-
+- [Arithmetic Slices TD](https://leetcode.com/problems/arithmetic-slices/)
+- [Arithmetic Slices BU](https://leetcode.com/problems/arithmetic-slices/)
+- [Arithmetic Slices 2](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
 
 
 ### Homework
@@ -111,8 +116,8 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
 - [Nth tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/)
 - New [Count LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
-- New [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
-- New [Arithmetic Slices 2](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+- New [Arithmetic Slices Try to optimise space complexity in BU](https://leetcode.com/problems/arithmetic-slices/)
+
 ------------------------------------------------------------------------
 
 # Below section is not required for interview preparation, it is only for CP enthusiasts 
