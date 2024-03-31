@@ -117,6 +117,13 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Nth tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/)
 - New [Count LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 - New [Arithmetic Slices Try to optimise space complexity in BU](https://leetcode.com/problems/arithmetic-slices/)
+- New [Min Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+- New [Edit Distance](https://leetcode.com/problems/edit-distance/)
+- New [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- New [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/)
+- New [Paint House](https://leetcode.com/problems/paint-house/)
+- New [Paint House 2](https://leetcode.com/problems/paint-house-ii/)
+
 
 ------------------------------------------------------------------------
 
