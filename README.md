@@ -66,6 +66,8 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [LPS TD](https://leetcode.com/problems/longest-palindromic-subsequence/)
 - [Buy and sell stock 4](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 - [Buy and sell stock 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+- [Buy and sell stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [Buy and sell stock 1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 
 ### Homework
