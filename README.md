@@ -64,6 +64,8 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [LCS TD](https://leetcode.com/problems/longest-common-subsequence/)
 - [LCS BU](https://leetcode.com/problems/longest-common-subsequence/)
 - [LPS TD](https://leetcode.com/problems/longest-palindromic-subsequence/)
+- [Buy and sell stock 4](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+- [Buy and sell stock 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 
 
 ### Homework
