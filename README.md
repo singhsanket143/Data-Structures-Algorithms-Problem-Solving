@@ -61,6 +61,9 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Arithmetic Slices TD](https://leetcode.com/problems/arithmetic-slices/)
 - [Arithmetic Slices BU](https://leetcode.com/problems/arithmetic-slices/)
 - [Arithmetic Slices 2](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+- [LCS TD](https://leetcode.com/problems/longest-common-subsequence/)
+- [LCS BU](https://leetcode.com/problems/longest-common-subsequence/)
+- [LPS TD](https://leetcode.com/problems/longest-palindromic-subsequence/)
 
 
 ### Homework
