@@ -122,7 +122,11 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - New [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - New [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/)
 - New [Paint House](https://leetcode.com/problems/paint-house/)
+    - [Alternative Link For Paint House - 1](https://www.lintcode.com/problem/515/)
+    - [Alternative Link For Paint House - 2](https://www.naukri.com/code360/problems/paint-house_1460385)
 - New [Paint House 2](https://leetcode.com/problems/paint-house-ii/)
+    - [Alternative Link For Paint House 2 - 1](https://www.lintcode.com/problem/516/)
+    - [Alternative Link For Paint House 2 - 2](https://www.naukri.com/code360/problems/ninja-s-contract_1459321)
 
 
 ------------------------------------------------------------------------
