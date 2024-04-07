@@ -13,7 +13,13 @@ var MyLinkedList = function() {
  * @return {number}
  */
 MyLinkedList.prototype.get = function(index) {
-    
+    let i = 0;
+    let temp = this.head;
+    while(i < index && temp != null) {
+        i++;
+        temp = temp.next;
+    }
+    return temp.data;
 };
 
 /** 
@@ -66,7 +72,23 @@ MyLinkedList.prototype.addAtIndex = function(index, val) {
  * @return {void}
  */
 MyLinkedList.prototype.deleteAtIndex = function(index) {
-    
+    if(this.head == null) return;
+    let i = 0;
+    let prev = null;
+    let nodeToBeDel = this.head;
+    while(i < index && nodeToBeDel != null) {
+        prev = nodeToBeDel;
+        nodeToBeDel = nodeToBeDel.next;
+        i++;
+    }
+    if(i != index) {
+        // ll was not having the index
+        return;
+    }
+    let newNext = nodeToBeDel.next;
+    prev.next = newNext;
+    nodeToBeDel.next = null;  // this now will be later garbage collected
+    return;
 };
 
 /** 
