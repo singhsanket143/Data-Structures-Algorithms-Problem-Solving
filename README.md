@@ -70,6 +70,11 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Buy and sell stock 1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Linked List
+- [Add at head](https://leetcode.com/problems/design-linked-list/)
+- [Add at tail](https://leetcode.com/problems/design-linked-list/)
+- [Add at index](https://leetcode.com/problems/design-linked-list/)
+- [Delete at index](https://leetcode.com/problems/design-linked-list/)
+- [Get at index](https://leetcode.com/problems/design-linked-list/)
 
 
 ### Homework
@@ -124,20 +129,45 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [House Robber](https://leetcode.com/problems/house-robber/)
 - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
 - [Nth tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/)
-- New [Count LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
-- New [Arithmetic Slices Try to optimise space complexity in BU](https://leetcode.com/problems/arithmetic-slices/)
-- New [Min Path Sum](https://leetcode.com/problems/minimum-path-sum/)
-- New [Edit Distance](https://leetcode.com/problems/edit-distance/)
-- New [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- New [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/)
-- New [Paint House](https://leetcode.com/problems/paint-house/)
+- [Count LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+- [Arithmetic Slices Try to optimise space complexity in BU](https://leetcode.com/problems/arithmetic-slices/)
+- [Min Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+- [Edit Distance](https://leetcode.com/problems/edit-distance/)
+- [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/)
+- [Paint House](https://leetcode.com/problems/paint-house/)
     - [Alternative Link For Paint House - 1](https://www.lintcode.com/problem/515/)
     - [Alternative Link For Paint House - 2](https://www.naukri.com/code360/problems/paint-house_1460385)
-- New [Paint House 2](https://leetcode.com/problems/paint-house-ii/)
+- [Paint House 2](https://leetcode.com/problems/paint-house-ii/)
     - [Alternative Link For Paint House 2 - 1](https://www.lintcode.com/problem/516/)
     - [Alternative Link For Paint House 2 - 2](https://www.naukri.com/code360/problems/ninja-s-contract_1459321)
 
 
+## Linked List
+- [Mid point of linked list](https://leetcode.com/problems/middle-of-the-linked-list/)\
+
+
+------------------------------------------------------------------------
+
+## Fundamental problems very easy 
+1. Take N as input. If the number is prime, print “Prime” otherwise print “Not Prime”.
+2. Take N as input. Print Nth Fibonacci number. 0 is the 0th Fibonacci number and 1
+is 1st Fibonacci number.
+3. Take N as input. Calculate its reverse. Print the reverse.
+4. Take N as input. Print all prime numbers from 2 to N.
+5. Take N as input. Print all Fibonacci numbers less than N.
+6. Take N as input. Print the sum of its odd placed digits and sum of its even placed
+digits.
+
+## Fundamental problems easy 
+1. Take N (number in binary format). Write a function that converts it to decimal format. Print the value returned.
+2. Take N (number in decimal format). Write a function that converts it to octal format. Print the value returned.
+3. Take N (number in octal format). Write a function that converts it to binary format. Print the value returned.
+4. Take sb (source number system base), db (destination number system base) and sn (number in source format). Write a function that converts sn to its counterpart in destination number system. Print the value returned.
+
+- [Leetcode easy](https://imgur.com/LxPW0gg)
+- [Leetcode part 2](https://leetcode.com/problemset/?difficulty=EASY&page=1&topicSlugs=math%2Carray&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+- [Leetcode part 3](https://dev.to/snj/leetcode-problems-for-beginners-5enm)
 ------------------------------------------------------------------------
 
 # Below section is not required for interview preparation, it is only for CP enthusiasts 
