@@ -75,7 +75,10 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Add at index](https://leetcode.com/problems/design-linked-list/)
 - [Delete at index](https://leetcode.com/problems/design-linked-list/)
 - [Get at index](https://leetcode.com/problems/design-linked-list/)
-
+- [Design browser history](https://leetcode.com/problems/design-browser-history/description/)
+- [Remove duplicated in sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [Remove nth node from last](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Swapping nodes in LL](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
 ### Homework
 
