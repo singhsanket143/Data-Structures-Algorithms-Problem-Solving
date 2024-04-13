@@ -79,6 +79,8 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Remove duplicated in sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Remove nth node from last](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Swapping nodes in LL](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+- [Partition List](https://leetcode.com/problems/partition-list/)
+- [Maximum twin sum](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
 
 ### Homework
 
@@ -103,6 +105,7 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 - [Intersection of two arrays 2](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Number of pairs satisfing inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/)
+
 
 ## Searching
 - [Sqrt](https://leetcode.com/problems/sqrtx/description/)
@@ -147,8 +150,14 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 
 
 ## Linked List
-- [Mid point of linked list](https://leetcode.com/problems/middle-of-the-linked-list/)\
-
+- [Mid point of linked list](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [Reverse a ll](https://leetcode.com/problems/reverse-linked-list/)
+- [Reverse nodes in group of k](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [Add two numbers](https://leetcode.com/problems/add-two-numbers/)
+- [Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+- [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Intersection of LL](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Insertion sort LL](https://leetcode.com/problems/insertion-sort-list/)
 
 ------------------------------------------------------------------------
 
