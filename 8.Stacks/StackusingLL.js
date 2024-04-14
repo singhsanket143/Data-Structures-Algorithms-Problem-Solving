@@ -50,6 +50,9 @@ class Stack {
     top() {
         return this.#ll.head.data;
     }
+    isEmpty() {
+        return this.#ll.head == null;
+    }
 }
 
 

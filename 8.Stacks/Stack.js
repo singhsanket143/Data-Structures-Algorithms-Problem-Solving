@@ -17,6 +17,10 @@ class Stack {
     top() {
         return this.#arr[this.#arr.length - 1]; // element present at the last index is the top most element
     }
+
+    isEmpty() {
+        return this.#arr.length == 0;
+    }
 }
 
 let s = new Stack();
