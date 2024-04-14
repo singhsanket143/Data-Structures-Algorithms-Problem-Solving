@@ -82,6 +82,11 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Partition List](https://leetcode.com/problems/partition-list/)
 - [Maximum twin sum](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
 
+## Stacks
+- [Stack using Array]()
+- [Stack using LL]()
+- [Removing stars from string](https://leetcode.com/problems/removing-stars-from-a-string/)
+
 ### Homework
 
 ## Adhoc
