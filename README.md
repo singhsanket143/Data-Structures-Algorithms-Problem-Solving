@@ -87,6 +87,9 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Stack using LL]()
 - [Removing stars from string](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Maximum frequency stack](https://leetcode.com/problems/maximum-frequency-stack/)
+- [Valid parenthesis](https://leetcode.com/problems/valid-parentheses/)
+- [Build an array with stack operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+
 
 ### Homework
 
