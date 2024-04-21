@@ -92,6 +92,13 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Build an array with stack operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
 - [Backspace string](https://leetcode.com/problems/backspace-string-compare/)
 
+## Queues
+- [Implement queue using LL]()
+- [Design middle front back queue](https://leetcode.com/problems/design-front-middle-back-queue/)
+- [QUeue using stacks - Enqueue efficient](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [Queue using stacks - Dequeue efficient](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [Design circular queue](https://leetcode.com/problems/design-circular-queue/)
+
 ### Homework
 
 ## Adhoc
@@ -168,6 +175,16 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Intersection of LL](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [Insertion sort LL](https://leetcode.com/problems/insertion-sort-list/)
+
+
+## Stacks
+- [Stack using queue - Push efficient](https://leetcode.com/problems/implement-stack-using-queues/)
+- [Stack using queue - pop efficient](https://leetcode.com/problems/implement-stack-using-queues/)
+- [Simplify path](https://leetcode.com/problems/simplify-path/)
+
+
+## queues
+- [Gas station - uses queue concept but might not actually use a queue](https://leetcode.com/problems/gas-station/)
 
 ------------------------------------------------------------------------
 
