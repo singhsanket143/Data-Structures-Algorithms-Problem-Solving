@@ -181,7 +181,12 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Stack using queue - Push efficient](https://leetcode.com/problems/implement-stack-using-queues/)
 - [Stack using queue - pop efficient](https://leetcode.com/problems/implement-stack-using-queues/)
 - [Simplify path](https://leetcode.com/problems/simplify-path/)
-
+- [Largest histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- [Sum of subarray minimum](https://leetcode.com/problems/sum-of-subarray-minimums/)
+- [Min stack](https://leetcode.com/problems/min-stack/)
+- [Stock span](https://www.interviewbit.com/blog/stock-span-problem/)
+- [Reverse a stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1)
+- [Remove adjacent duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 ## queues
 - [Gas station - uses queue concept but might not actually use a queue](https://leetcode.com/problems/gas-station/)
