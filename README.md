@@ -86,6 +86,8 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Add at tail for dll]()
 - [Remove at head for dll]()
 - [Remove at tail for dll]()
+- [LRU Cache](https://leetcode.com/problems/lru-cache/)
+
 
 ## Stacks
 - [Stack using Array]()
