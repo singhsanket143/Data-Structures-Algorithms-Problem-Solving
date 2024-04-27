@@ -17,6 +17,7 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [2 sum and 2sum 2 with hashing](https://leetcode.com/problems/two-sum/)
+- [First non repeating character](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 
 ## sorting [link](https://www.bigocheatsheet.com/)
@@ -81,6 +82,10 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Swapping nodes in LL](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 - [Partition List](https://leetcode.com/problems/partition-list/)
 - [Maximum twin sum](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
+- [Add at head for dll]()
+- [Add at tail for dll]()
+- [Remove at head for dll]()
+- [Remove at tail for dll]()
 
 ## Stacks
 - [Stack using Array]()
@@ -98,6 +103,9 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [QUeue using stacks - Enqueue efficient](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [Queue using stacks - Dequeue efficient](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [Design circular queue](https://leetcode.com/problems/design-circular-queue/)
+- [Implmentation of deque]()
+- [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
 
 ### Homework
 
@@ -190,6 +198,7 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 
 ## queues
 - [Gas station - uses queue concept but might not actually use a queue](https://leetcode.com/problems/gas-station/)
+
 
 ------------------------------------------------------------------------
 
