@@ -112,6 +112,7 @@ var levelOrder = function(root) {
                 qu.enqueue(null); // we can use this null as a marker of end of current level
                 levelArray = new Array();
             } else {
+                // when queue is empty
                 result.push(levelArray);
             }
         } else {

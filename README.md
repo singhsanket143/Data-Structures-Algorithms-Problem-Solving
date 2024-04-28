@@ -108,6 +108,10 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Implmentation of deque]()
 - [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
+## Binary trees
+- [Level order levelwise](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+
 
 ### Homework
 
@@ -201,6 +205,14 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 ## queues
 - [Gas station - uses queue concept but might not actually use a queue](https://leetcode.com/problems/gas-station/)
 
+
+
+## Binary trees 
+- [Average of levels](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+- [Reverse level ordeer](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+- [Cousins in a BT](https://leetcode.com/problems/cousins-in-binary-tree/)
+- [ZigZag level order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [Right view of a BT](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ------------------------------------------------------------------------
 
