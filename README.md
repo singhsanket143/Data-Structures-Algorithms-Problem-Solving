@@ -110,6 +110,7 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 
 ## Binary trees
 - [Level order levelwise](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [Preorder traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 
 
