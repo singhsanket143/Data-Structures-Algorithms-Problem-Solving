@@ -111,8 +111,11 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 ## Binary trees
 - [Level order levelwise](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [Preorder traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-
-
+- [Post order traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [Inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [Invert a BT](https://leetcode.com/problems/invert-binary-tree/)
+- [Maximum depth of a BT](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [Diameter of a BT](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 ### Homework
 
