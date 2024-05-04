@@ -116,6 +116,8 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Invert a BT](https://leetcode.com/problems/invert-binary-tree/)
 - [Maximum depth of a BT](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [Diameter of a BT](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [Balanced BT](https://leetcode.com/problems/balanced-binary-tree/)
+
 
 ### Homework
 
@@ -217,6 +219,10 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Cousins in a BT](https://leetcode.com/problems/cousins-in-binary-tree/)
 - [ZigZag level order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [Right view of a BT](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [House robber 3](https://leetcode.com/problems/house-robber-iii/)
+- [Serialise deserialise BT](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [SUbtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/)
+
 
 ------------------------------------------------------------------------
 
