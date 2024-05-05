@@ -117,6 +117,9 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Maximum depth of a BT](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [Diameter of a BT](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [Balanced BT](https://leetcode.com/problems/balanced-binary-tree/)
+- [Sum root to leaf](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- [Find boot left value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+- [Largest value in each tree row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
 
 
 ### Homework
