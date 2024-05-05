@@ -120,7 +120,8 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Sum root to leaf](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - [Find boot left value](https://leetcode.com/problems/find-bottom-left-tree-value/)
 - [Largest value in each tree row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
-
+- [Duplicate subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+- [mMaximum width of a binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
 ### Homework
 
@@ -225,7 +226,8 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [House robber 3](https://leetcode.com/problems/house-robber-iii/)
 - [Serialise deserialise BT](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [SUbtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/)
-
+- [Merge binary trees](https://leetcode.com/problems/merge-two-binary-trees/)
+- [Construct string from binary tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 
 ------------------------------------------------------------------------
 
