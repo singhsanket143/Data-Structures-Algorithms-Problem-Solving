@@ -122,6 +122,14 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Largest value in each tree row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
 - [Duplicate subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
 - [mMaximum width of a binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+- [Flip Equivalent](https://leetcode.com/problems/flip-equivalent-binary-trees/)
+- [House robber 3](https://leetcode.com/problems/house-robber-iii/)
+- [Construct string from binary tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+
+## BST
+- [Insert in a BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+
+
 
 ### Homework
 
@@ -223,12 +231,21 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Cousins in a BT](https://leetcode.com/problems/cousins-in-binary-tree/)
 - [ZigZag level order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [Right view of a BT](https://leetcode.com/problems/binary-tree-right-side-view/)
-- [House robber 3](https://leetcode.com/problems/house-robber-iii/)
 - [Serialise deserialise BT](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [SUbtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [Merge binary trees](https://leetcode.com/problems/merge-two-binary-trees/)
-- [Construct string from binary tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
-- [Flip Equivalent](https://leetcode.com/problems/flip-equivalent-binary-trees/)
+- [Construct BT using pre and in order](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [LCA](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+
+
+## BST 
+- [Delete a node in bst](https://leetcode.com/problems/delete-node-in-a-bst/)
+- [BST To greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
+- [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Verify BST from preorder LINTCODE](https://www.lintcode.com/problem/1307/?fromId=349&_from=collection)
+    - [Verify BST from preorder Leetcode](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
+
 
 ------------------------------------------------------------------------
 
