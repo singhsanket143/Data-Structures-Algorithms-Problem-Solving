@@ -228,6 +228,7 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [SUbtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [Merge binary trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [Construct string from binary tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+- [Flip Equivalent](https://leetcode.com/problems/flip-equivalent-binary-trees/)
 
 ------------------------------------------------------------------------
 
