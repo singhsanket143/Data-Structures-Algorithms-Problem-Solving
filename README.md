@@ -251,6 +251,8 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
     - [Verify BST from preorder Leetcode](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
 - [All full BT](https://leetcode.com/problems/all-possible-full-binary-trees/)
 - [Trim](https://leetcode.com/problems/trim-a-binary-search-tree/)
+- [Number of ways to reorder bst](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
+- [Distribute coins in a BST](https://leetcode.com/problems/distribute-coins-in-binary-tree/?envType=daily-question&envId=2024-05-18)
 
 ------------------------------------------------------------------------
 
