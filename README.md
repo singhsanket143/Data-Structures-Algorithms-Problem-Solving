@@ -128,7 +128,8 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 
 ## BST
 - [Insert in a BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
-
+- [Search a node in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- [Delete a node in bst](https://leetcode.com/problems/delete-node-in-a-bst/)
 
 
 ### Homework
@@ -240,7 +241,7 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 
 
 ## BST 
-- [Delete a node in bst](https://leetcode.com/problems/delete-node-in-a-bst/)
+
 - [BST To greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
 - [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Verify BST from preorder LINTCODE](https://www.lintcode.com/problem/1307/?fromId=349&_from=collection)
