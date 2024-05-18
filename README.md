@@ -4,6 +4,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 Revise JAVADS - [Link](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 Revise Java HashMap - [Link](https://www.youtube.com/watch?v=H62Jfv1DJlU)
 Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
+AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 
 ## Arrays and Two Pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -130,7 +131,9 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Insert in a BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 - [Search a node in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - [Delete a node in bst](https://leetcode.com/problems/delete-node-in-a-bst/)
-
+- [Kth smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [Max path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [Convert sorted list to bst](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 
 ### Homework
 
@@ -246,7 +249,8 @@ Revise Java ArrayList - [Link](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 - [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Verify BST from preorder LINTCODE](https://www.lintcode.com/problem/1307/?fromId=349&_from=collection)
     - [Verify BST from preorder Leetcode](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
-
+- [All full BT](https://leetcode.com/problems/all-possible-full-binary-trees/)
+- [Trim](https://leetcode.com/problems/trim-a-binary-search-tree/)
 
 ------------------------------------------------------------------------
 
