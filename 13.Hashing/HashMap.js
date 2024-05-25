@@ -131,9 +131,10 @@ MyLinkedList.prototype.deleteAtHead = function() {
 }
 class HashMap {
     constructor() {
-        this.lambdaFactor = 0.5; // threshold lambda factor
+        this.lambdaFactorThreshold = 0.5; // threshold lambda factor
         this.arr = [];
-        this.maxSize = 2; // how many key-value pair are inserted
+        this.maxSize = 2; // how many buckets are avaialable
+        this.currSize = 0; // how many elements are inserted
     }
 
     hashFunction(key) {
