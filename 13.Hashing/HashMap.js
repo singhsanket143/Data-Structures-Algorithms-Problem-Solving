@@ -133,7 +133,7 @@ class HashMap {
     constructor() {
         this.lambdaFactor = 0.5; // threshold lambda factor
         this.arr = [];
-        this.currSize = 0; // how many key-value pair are inserted
+        this.maxSize = 2; // how many key-value pair are inserted
     }
 
     hashFunction(key) {
@@ -153,7 +153,7 @@ class HashMap {
         let ans = 0; // This variable will be the final hashed value
         let p = 101; // prime number to keep
         let pow = 1; // intially power is p^0
-        let C = this.currSize;
+        let C = this.maxSize;
         for(let i = 0; i < key.length; i++) {
             // go to each character of given
             let asciiValue = ascii(key, i);
@@ -175,3 +175,11 @@ class HashMap {
         return key.charCodeAt(index);
     }
 }
+
+
+/**
+ * 
+ * [[], []], lambda > 0.5
+ * 
+ * [[], [], [], []]
+ */
