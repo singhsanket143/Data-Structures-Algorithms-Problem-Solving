@@ -117,7 +117,19 @@ class HashMap {
     }
 
     search(key) {
+        // Either the key value pair is present or not ? 
+        // If the key value pair is present then we can be sure that there is only one ll in which it will be present
         
+        // Calc Bucket index of the linked list where the pair might be present
+
+        const bucketIndex = this.hashFunction(key);
+
+        let temp = this.arr[bucketIndex].head;
+        while(temp != null) {
+            if(temp.key === key) return temp.value;
+            temp = temp.next;
+        }
+        return undefined;
     }
 
     rehash() {
@@ -142,15 +154,16 @@ class HashMap {
                 let key = temp.key;
                 let value = temp.value;
                 
-
+                // calc new bi
                 const bucketIndex = this.hashFunction(key);
 
+                // insert in the new array
                 newArr[bucketIndex].addAtHead(key, value);
 
                 temp = temp.next;
             }
         }
-
+        // make this new array as out hashmap array
         this.arr = newArr;
     }
  }
@@ -168,3 +181,5 @@ class HashMap {
  hm.display();
  hm.insert("xyz", 14);
  hm.display();
+
+ console.log(hm.search("berries"))
