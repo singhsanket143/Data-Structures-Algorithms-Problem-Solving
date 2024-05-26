@@ -28,6 +28,14 @@ MyLinkedList.prototype.addAtHead = function(key, val) {
     }
 };
 
+MyLinkedList.prototype.deleteAtHead = function() {
+    if(this.head == null) return;
+    let nextHead = this.head.next;
+    let nodeToBeDelete = this.head; // curr head
+    this.head = nextHead;
+    nodeToBeDelete.next = null; // prev head disconnected
+}
+
 class HashMap {
     constructor() {
         this.lambdaFactorThreshold = 0.5; // threshold lambda factor
@@ -113,6 +121,40 @@ class HashMap {
     }
 
     remove(key) {
+        /**
+         * 1. Check if the key is even present or not ?
+         * 2. If the key is present, check in which ll bucket it is, using hash function
+         * 3. Iterate on the LL and remove the node
+         */
+
+        const value = this.search(key);
+        if(!value) {
+            console.log("Key is not present, nothing to remove");
+            return;
+        }
+
+        const bucketIndex = this.hashFunction(key);
+        let temp = this.arr[bucketIndex].head;
+
+        if(temp.key === key) {
+            // head node need to be deleted
+            this.arr[bucketIndex].deleteAtHead();
+            this.currSize -= 1;
+            return;
+        }
+
+        while(temp != null) {
+            // check if the curr node is just behind the node to be deleted ? 
+            if(temp.next != null && temp.next.key === key) {
+                const nodeToBeDeleted = temp.next;
+                temp.next = nodeToBeDeleted.next; // attach prev node to next node
+                nodeToBeDeleted.next = null; // break the conn
+                this.currSize -= 1;
+                return;
+            } 
+            temp = temp.next;
+        }
+
 
     }
 
@@ -179,7 +221,5 @@ class HashMap {
  hm.display();
  hm.insert("grapes", 14);
  hm.display();
- hm.insert("xyz", 14);
- hm.display();
-
- console.log(hm.search("berries"))
+hm.remove("mango");
+hm.display()
