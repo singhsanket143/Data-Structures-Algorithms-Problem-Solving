@@ -103,9 +103,29 @@ class HashMap {
         console.log(this.currSize, this.maxSize);
         console.log("*******")
     }
+     
+    update(key, value) {
+        // we assume that key is always present
+        const bucketIndex = this.hashFunction(key);
+        let temp = this.arr[bucketIndex].head;
+        while(temp != null) {
+            if(temp.key === key) {
+                temp.value = value;
+                return;
+            }
+            temp = temp.next;
+        }
+    }
 
     insert(key, value) {
         // TODO: Implement update part
+        if(this.search(key)) {
+            // key value pair is already present
+
+            // no need to insert just update\
+            this.update(key, value);
+            return;
+        }
 
         let newLoadFactor = (this.currSize + 1) / this.maxSize;
         if(newLoadFactor > this.lambdaFactorThreshold) {
@@ -230,9 +250,5 @@ class HashMap {
  hm.display();
  hm.insert("grapes", 14);
  hm.display();
- hm.remove("mango");
- hm.display();
- hm.remove("grapes");
- hm.display();
- hm.remove("banana");
- hm.display();
+ hm.insert("mango", 55);
+ hm.display()
