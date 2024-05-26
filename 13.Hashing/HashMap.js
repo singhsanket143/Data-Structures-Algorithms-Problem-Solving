@@ -39,6 +39,7 @@ MyLinkedList.prototype.deleteAtHead = function() {
 class HashMap {
     constructor() {
         this.lambdaFactorThreshold = 0.5; // threshold lambda factor
+        this.lambdaFactorLowerThresold = 0.25;
         this.maxSize = 2; // how many buckets are avaialable
 
         this.arr = Array(this.maxSize);
@@ -140,6 +141,10 @@ class HashMap {
             // head node need to be deleted
             this.arr[bucketIndex].deleteAtHead();
             this.currSize -= 1;
+            const loadFactor = (this.currSize) / this.maxSize;
+            if(loadFactor <= this.lambdaFactorLowerThresold) {
+                this.rehash(0.5);
+            }
             return;
         }
 
@@ -150,6 +155,10 @@ class HashMap {
                 temp.next = nodeToBeDeleted.next; // attach prev node to next node
                 nodeToBeDeleted.next = null; // break the conn
                 this.currSize -= 1;
+                const loadFactor = (this.currSize) / this.maxSize;
+                if(loadFactor <= this.lambdaFactorLowerThresold) {
+                    this.rehash(0.5);
+                }
                 return;
             } 
             temp = temp.next;
@@ -174,8 +183,8 @@ class HashMap {
         return undefined;
     }
 
-    rehash() {
-        this.maxSize *= 2; // double the capacity of the arr
+    rehash(factor = 2) {
+        this.maxSize *= factor; // double the capacity of the arr
 
         const newArr = Array(this.maxSize);// new array with updated capacity
 
@@ -221,5 +230,9 @@ class HashMap {
  hm.display();
  hm.insert("grapes", 14);
  hm.display();
-hm.remove("mango");
-hm.display()
+ hm.remove("mango");
+ hm.display();
+ hm.remove("grapes");
+ hm.display();
+ hm.remove("banana");
+ hm.display();
