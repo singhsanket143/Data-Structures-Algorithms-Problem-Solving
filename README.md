@@ -144,6 +144,11 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Hashfunction for strings]()
 - [Update in hashmap]()
 
+## Trie
+- [Insert in Hashmap](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [Search in Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [StartsWith in hashmap](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
 ### Homework
 
 ## Adhoc
