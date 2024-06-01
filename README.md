@@ -28,7 +28,7 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [min cost to remove all elements such that cost to remove one element is sum of array]()
 
 
-# Searching 
+## Searching 
  - [Lower Bound](https://www.codingninjas.com/studio/problems/lower-bound_8165382)
  - [Upper Bound](https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383)
  - [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
@@ -134,6 +134,15 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Kth smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [Max path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [Convert sorted list to bst](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+
+## Hashing
+- [Rehashing Algorithm]()
+- [Insert in Hashmap]()
+- [Delete in Hashmap]()
+- [Search in Hashmap]()
+- [Hashfunction for strings]()
+- [Update in hashmap]()
 
 ### Homework
 
