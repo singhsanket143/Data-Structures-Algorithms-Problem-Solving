@@ -268,6 +268,11 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Number of ways to reorder bst](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
 - [Distribute coins in a BST](https://leetcode.com/problems/distribute-coins-in-binary-tree/?envType=daily-question&envId=2024-05-18)
 
+
+## Trie
+- [Maximum xor of two numbers in an array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
+- [Design add and search word](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+
 ------------------------------------------------------------------------
 
 ## Fundamental problems very easy 
