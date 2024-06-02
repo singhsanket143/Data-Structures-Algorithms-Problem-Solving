@@ -152,6 +152,7 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 ## AVL
 - [Left rotation]()
 - [Right rotation]()
+- [Insert in avl]()
 
 # Homework
 
@@ -276,6 +277,9 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 ## Trie
 - [Maximum xor of two numbers in an array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 - [Design add and search word](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+
+## AVL
+- [Delete a node in avl]()
 
 ------------------------------------------------------------------------
 
