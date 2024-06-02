@@ -149,7 +149,11 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Search in Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [StartsWith in hashmap](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
-### Homework
+## AVL
+- [Left rotation]()
+- [Right rotation]()
+
+# Homework
 
 ## Adhoc
 - [Multiply strings](https://leetcode.com/problems/multiply-strings/)

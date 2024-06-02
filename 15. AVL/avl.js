@@ -21,8 +21,8 @@ class AVL {
 
         // update heights of alpha and beta
         // Update height of alpha first, because height of beta depends on it
-        alpha.height = Math.max(alpha.left.height, alpha.right.height) + 1;
-        beta.height = Math.max(beta.left.height, beta.right.height) + 1;
+        alpha.height = Math.max(height(alpha.left), height(alpha.right)) + 1;
+        beta.height = Math.max(height(beta.left), height(beta.right)) + 1;
 
         // return the new root beta
         return beta;
@@ -37,9 +37,19 @@ class AVL {
 
         // update heights of alpha and beta
         // Update height of alpha first, because height of beta depends on it
-        alpha.height = Math.max(alpha.left.height, alpha.right.height) + 1;
-        beta.height = Math.max(beta.left.height, beta.right.height) + 1;
+        alpha.height = Math.max(height(alpha.left), height(alpha.right)) + 1;
+        beta.height = Math.max(height(beta.left), height(beta.right)) + 1;
         // return the new root
         return beta;
+    }
+
+    height(node) {
+        if(node == null) return 0;
+        return node.height;
+    }
+
+    getBF(node) {
+        if(node == null) return 0;
+        return height(node.left) - height(node.right);
     }
 }
