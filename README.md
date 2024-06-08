@@ -160,7 +160,7 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Downheappify]()
 - [Insert in a heap]()
 - [Remove from a heap]()
-
+- [Generic heap]()
 # Homework
 
 ## Adhoc
