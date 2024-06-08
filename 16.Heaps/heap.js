@@ -91,14 +91,12 @@ class MaxHeap {
 }
 
 let hp = new MaxHeap();
-hp.insert(9);
-hp.insert(19);
+hp.insert(3);
 hp.insert(2);
-hp.insert(39);
-hp.insert(29);
-hp.insert(12);
-hp.insert(-9);
+hp.insert(1);
+hp.insert(5);
 hp.insert(6);
+hp.insert(4)
 
 hp.display();
 /**
@@ -110,7 +108,6 @@ hp.display();
 
 hp.remove();
 
-hp.remove();
 hp.display();
 
 /**
