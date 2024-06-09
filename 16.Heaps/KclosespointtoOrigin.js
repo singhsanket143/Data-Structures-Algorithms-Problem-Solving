@@ -1,3 +1,8 @@
+/**
+ * @param {number[][]} points
+ * @param {number} k
+ * @return {number[][]}
+ */
 class Heap {
     constructor(cmp) {
         this.arr = [];
@@ -32,6 +37,10 @@ class Heap {
 
         // 2. upheapify
         this.upheapify(this.arr.length - 1);
+    }
+    
+    get() {
+        return this.arr[0]; // return the root
     }
 
     downheapify(idx) {
@@ -89,40 +98,31 @@ class Heap {
     display() {
         console.log(this.arr)
     }
+}
 
-    get() {
-        return this.arr[0]; // return the root
+class Point {
+    constructor(xi, yi) {
+        this.x = xi;
+        this.y = yi;
+        this.dist = Math.sqrt(xi*xi + yi*yi) // store the euclidean distance from the origin
     }
 }
 
-let hp = new Heap((a, b) => {
-    return a > b // a< b for max heap, a > b for min heap
-});
-hp.insert(9);
-hp.insert(19);
-hp.insert(2);
-hp.insert(39);
-hp.insert(29);
-hp.insert(12);
-hp.insert(-9);
-hp.insert(6);
-
-hp.display();
-/**
- *          39
- *      29       12
- *    9 19      2 -9
- *   6 
- */
-
-hp.remove();
-
-hp.remove();
-hp.display();
-
-/**
- *          19
- *      9       12
- *    -9 6      2 
- * 
- */
+var kClosest = function(points, k) {
+    const hp = new Heap((pointA, pointB) => {
+        return pointA.dist > pointB.dist; //min heap
+    });
+    for(let i = 0; i < points.length; i++) {
+        // Iterate on all the given points
+        const p = new Point(points[i][0], points[i][1]); // for the current x,y create a point object
+        hp.insert(p); // insert the point in heap
+    }
+    let result = []; // result array
+    while(k > 0) {
+        k--;
+        let val = [hp.get().x, hp.get().y]; // get the x and y coordinate fromroot of heap
+        result.push(val); // store the point in answer array
+        hp.remove();//  remove the root, so that 2nd closes element can come on root
+    }
+    return result;
+};

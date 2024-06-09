@@ -161,6 +161,7 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Insert in a heap]()
 - [Remove from a heap]()
 - [Generic heap]()
+- [K closes point to origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 # Homework
 
 ## Adhoc
