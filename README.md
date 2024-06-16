@@ -166,6 +166,11 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [K closes point to origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Kth smallest prime fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)
+
+## Graph
+- [Adjacency list]()
+- [Adjacency matrix]()
+
 # Homework
 
 ## Adhoc
