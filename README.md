@@ -170,6 +170,8 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 ## Graph
 - [Adjacency list]()
 - [Adjacency matrix]()
+- [Check if path exist DFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
+- [Check if path exist BFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 
 # Homework
 
