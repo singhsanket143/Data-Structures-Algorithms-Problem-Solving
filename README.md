@@ -304,7 +304,18 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Find data in a stream](https://leetcode.com/problems/find-median-from-data-stream/)
 - [Build heap from array in less than nlogn](https://www.naukri.com/code360/problems/build-min-heap_1171167)
 - [Reorganize string](https://leetcode.com/problems/reorganize-string/)
+
+## Graph
+- [All paths from source to target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+- [Number of island](https://leetcode.com/problems/number-of-islands/)
+
+
+
 ------------------------------------------------------------------------
+
+
+
+
 
 ## Fundamental problems very easy 
 1. Take N as input. If the number is prime, print “Prime” otherwise print “Not Prime”.
