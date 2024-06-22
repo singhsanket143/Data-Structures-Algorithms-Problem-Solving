@@ -173,7 +173,9 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Check if path exist DFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 - [Check if path exist BFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-
+- [Max area of island](https://leetcode.com/problems/max-area-of-island/)
+- [Rotten oranges](https://leetcode.com/problems/rotting-oranges/)
+- [Surrounded regions](https://leetcode.com/problems/surrounded-regions/)
 # Homework
 
 ## Adhoc
@@ -308,8 +310,9 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 
 ## Graph
 - [All paths from source to target](https://leetcode.com/problems/all-paths-from-source-to-target/)
-- [Number of island](https://leetcode.com/problems/number-of-islands/)
-
+- [Pacific Atlantic water flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [Count Sub islands](https://leetcode.com/problems/count-sub-islands/)
+- [As far from land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
 
 
 ------------------------------------------------------------------------
