@@ -172,6 +172,7 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Adjacency matrix]()
 - [Check if path exist DFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 - [Check if path exist BFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 # Homework
 
