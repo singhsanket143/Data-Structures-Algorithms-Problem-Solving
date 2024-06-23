@@ -176,6 +176,11 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Max area of island](https://leetcode.com/problems/max-area-of-island/)
 - [Rotten oranges](https://leetcode.com/problems/rotting-oranges/)
 - [Surrounded regions](https://leetcode.com/problems/surrounded-regions/)
+- [Course schedule](https://leetcode.com/problems/course-schedule/)
+- [Course schedule 2](https://leetcode.com/problems/course-schedule-ii/)
+
+
+
 # Homework
 
 ## Adhoc
