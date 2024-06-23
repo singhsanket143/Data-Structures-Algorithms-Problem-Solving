@@ -138,7 +138,6 @@ function dijkstra(n, graph, source) {
                 via[neighbourNode] = node; // update the via array
                 distances[neighbourNode] = distance + neighbourDistance; // update the distance array
                 hp.insert([neighbourNode, distance + neighbourDistance]); // insert this neighbour in the heap
-
             }
         }
     }
@@ -161,3 +160,12 @@ let graph = [
 const response = dijkstra(n, graph, 0);
 console.log("Distances are", response[0]);
 console.log("Via array is", response[1]);
+
+/**
+ * 
+ * [
+ *  [[1, wt],[2, wt],3]
+ *  [0,2,3]
+ *  [3,4]
+ * ]
+ */
