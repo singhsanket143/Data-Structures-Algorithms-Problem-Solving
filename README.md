@@ -178,8 +178,9 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Surrounded regions](https://leetcode.com/problems/surrounded-regions/)
 - [Course schedule](https://leetcode.com/problems/course-schedule/)
 - [Course schedule 2](https://leetcode.com/problems/course-schedule-ii/)
-
-
+- [Dijkstra's algorithm]()
+## DSU
+- [Union and find]()
 
 # Homework
 
