@@ -184,6 +184,7 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 
 ## DSU
 - [Union and find]()
+- [Prims]()
 
 # Homework
 
