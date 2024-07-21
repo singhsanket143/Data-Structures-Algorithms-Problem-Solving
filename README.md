@@ -323,7 +323,15 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Pacific Atlantic water flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [Count Sub islands](https://leetcode.com/problems/count-sub-islands/)
 - [As far from land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
-
+- [Path with minimum effort](https://leetcode.com/problems/path-with-minimum-effort/)
+- [Reconstruct itenary](https://leetcode.com/problems/reconstruct-itinerary/)
+- [Min cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+- [Network delay time](https://leetcode.com/problems/network-delay-time/)
+- [Swim in rising water](https://leetcode.com/problems/swim-in-rising-water/)
+- [ALien dictionary](https://leetcode.com/problems/alien-dictionary/)
+- [Word ladder](https://leetcode.com/problems/word-ladder/)
+- [Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/)
+- [Detonate bombs](https://www.interviewbit.com/problems/detonate-bombs/)
 
 ------------------------------------------------------------------------
 
