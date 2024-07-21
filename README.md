@@ -332,6 +332,7 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Word ladder](https://leetcode.com/problems/word-ladder/)
 - [Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/)
 - [Detonate bombs](https://www.interviewbit.com/problems/detonate-bombs/)
+- [Number of closed islands](https://leetcode.com/problems/number-of-closed-islands/)
 
 ------------------------------------------------------------------------
 
